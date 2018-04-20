@@ -1,0 +1,15 @@
+{
+  "name": "basiccluster",
+  "version": "1.0.0",
+  "description": "Basic implementation of a cluster",
+  "main": "cluster.js",
+  "scripts": {
+    "start": "node cluster.js start"
+  },
+  "keywords": [
+    "cluster",
+    "node"
+  ],
+  "author": "Leonardo Carlesso",
+  "license": "ISC"
+}
